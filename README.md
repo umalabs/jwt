@@ -1,2 +1,2 @@
-# jwt
-Proof of Chain of Possession JWTs
+# UMA JWT
+UMA chronological tamper-resistant JWTs
